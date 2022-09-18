@@ -1,2 +1,2 @@
-# ml_hse
-Practical ML
+# ML-HSE
+
