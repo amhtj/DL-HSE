@@ -1,2 +1,2 @@
-# ML-HSE
+# Practical Machine learning course
 
