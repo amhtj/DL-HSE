@@ -15,6 +15,11 @@ The seminars contain material on topics:
 * PCA, K-means, 
 * as well as a discussion of ordinary problems from interviews and their solution.
 
+Used links for seminars:
+* YDSA ML Handbook : https://academy.yandex.ru/handbook/ml 
+* New articles, SoTA code : https://arxiv.org/ , https://www.researchgate.net/ , https://paperswithcode.com/sota 
+* Interview resources : https://github.com/cdeweyx/DS-Career-Resources/blob/master/Interview-Resources.md
+
 The continuation of the course will be Deep Learning in the 3rd, 4th modules of the first-year DS program.
 
 
