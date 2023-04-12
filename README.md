@@ -1,6 +1,6 @@
-# Practical ML Course
+# Practical DL Course
 
-This repository was created for ML seminars taught at HSE for first-year undergraduates in the Data Science program. The seminars is an addition to the lecture course by Sergey Nikolenko: https://logic.pdmi.ras.ru/~sergey/teaching/mlspsu2022.html
+This repository was created for DL seminars taught at HSE for first-year undergraduates in the Data Science program. The seminars is an addition to the lecture course by Sergey Nikolenko: https://logic.pdmi.ras.ru/~sergey/teaching/mlspsu2022.html
 
 The seminars contain material on topics: 
 * Introduction to numpy, 
